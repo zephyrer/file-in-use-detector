@@ -1,0 +1,1 @@
+A file in use detector under windows.
